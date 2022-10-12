@@ -14,7 +14,7 @@ Our task is to build an image classifier using the CIFAR-10 dataset and evaluate
 
 ### Steps
 --------
-The following are the main steps of this project. The notebook also contains instructions and hints that will guide you through this process:
+The following are the main steps of this project.
 
 1. Explore and prepare the data for training and testing.
 2. Design and build your neural network.
