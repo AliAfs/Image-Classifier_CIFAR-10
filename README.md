@@ -1,7 +1,7 @@
 Image Classifier CIFAR-10
 =========================
 
-In this project, we will build a neural network to evaluate the CIFAR-10 dataset usin PyTorch.
+In this project, we will build a neural network to evaluate the CIFAR-10 dataset using PyTorch.
 The model that is built in this notebook reached an accuracy of 72.52% on the test set of the CIFAR-10 dataset.
 
 ### Scenario
